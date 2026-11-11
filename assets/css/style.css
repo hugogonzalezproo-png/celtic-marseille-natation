@@ -1706,3 +1706,4 @@ h3.group__tag { margin: 0; display: block; }
 .legal h2:first-child { margin-top: 0; }
 .legal p { margin: 0 0 12px; line-height: 1.6; }
 .legal a { color: var(--pink); }
+.legal ul { margin: 0 0 12px; padding-left: 20px; line-height: 1.6; }
