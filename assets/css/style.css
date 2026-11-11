@@ -1699,3 +1699,10 @@ p { margin: 0 0 1em; }
 @keyframes sheetUp { from { transform: translateY(100%); } }
 
 h3.group__tag { margin: 0; display: block; }
+
+/* Mentions légales */
+.legal { max-width: 760px; }
+.legal h2 { font-family: var(--font-display); font-weight: 800; font-size: 26px; text-transform: uppercase; color: var(--navy); margin: 36px 0 10px; }
+.legal h2:first-child { margin-top: 0; }
+.legal p { margin: 0 0 12px; line-height: 1.6; }
+.legal a { color: var(--pink); }
